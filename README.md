@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chloe</h1>
-🔭 I’m currently working on Chloe Bot (*Not Available Yet*) with [SkylarPlayz348](https://github.com/SkylarPlayz348)
+🔭 I’m currently working on Chloe Bot **Not Available Yet** with SkylarPlayz348-https://github.com/SkylarPlayz348)
 
-🌱 I’m currently learning **HTML/CSS,**
+🌱 I’m currently learning **Discord.js**
 
 
 <h3 align="left">Connect with me:</h3>
